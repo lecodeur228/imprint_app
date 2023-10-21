@@ -23,7 +23,7 @@ Pour installer ce projet, suivez ces étapes simples :
 
 4. HomeScreen
 
-   ![WhatsApp Image 2023-10-21 à 11 16 55_36defaa5](https://github.com/banarin/imprint_app/assets/92242447/6006bfe1-b66f-4b3f-b216-3040c1a4772e)
+   ![WhatsApp Image 2023-10-21 à 11 16 55_d8cef173](https://github.com/banarin/imprint_app/assets/92242447/5df44e1e-bb1e-4219-9496-9eefd490a750)
 
 5. TouchIdScreen
 
