@@ -11,15 +11,15 @@ Pour installer ce projet, suivez ces étapes simples :
 
 1. Clonez le référentiel sur votre machine :
    
-    git clone https://github.com/banarin/imprint_app.git
+       git clone https://github.com/banarin/imprint_app.git
 
 2. installer tous les dependances :
 
-    flutter pub get
+       flutter pub get
 
 3. lancer le projet :
 
-     flutter run
+        flutter run
 
 4. HomeScreen
 
