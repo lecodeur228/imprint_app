@@ -34,5 +34,5 @@ Pour installer ce projet, suivez ces étapes simples :
 6. appercu du projet :
 
 
-   Uploading WhatsApp Vidéo 2023-10-21 à 11.40.13_2eea0ca5.mp4…
+Uploading WhatsApp Vidéo 2023-10-21 à 11.40.13_2eea0ca5.mp4…
 
